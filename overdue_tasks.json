@@ -1,39 +1,11 @@
 {
-  "total": 9,
+  "total": 3,
   "by_person": {
-    "A80773": [
+    "刘钊志": [
       {
         "id": "304629",
         "name": "【前端】7月1日1230-工程支付同时扣除保证金 v1.0.0需求评审",
-        "assignedTo": "A80773",
-        "status": "wait",
-        "priority": 0,
-        "type": "a_dev2_front",
-        "execution": "FMS-0730",
-        "deadline": "2026-07-08",
-        "overdue_days": 5,
-        "estimate": 1.0,
-        "consumed": 0.0,
-        "left": 1.0
-      },
-      {
-        "id": "304629",
-        "name": "【前端】7月1日1230-工程支付同时扣除保证金 v1.0.0需求评审",
-        "assignedTo": "A80773",
-        "status": "wait",
-        "priority": 0,
-        "type": "a_dev2_front",
-        "execution": "FMS-0730",
-        "deadline": "2026-07-08",
-        "overdue_days": 5,
-        "estimate": 1.0,
-        "consumed": 0.0,
-        "left": 1.0
-      },
-      {
-        "id": "304629",
-        "name": "【前端】7月1日1230-工程支付同时扣除保证金 v1.0.0需求评审",
-        "assignedTo": "A80773",
+        "assignedTo": "刘钊志",
         "status": "wait",
         "priority": 0,
         "type": "a_dev2_front",
@@ -45,39 +17,11 @@
         "left": 1.0
       }
     ],
-    "A80507": [
+    "李德文": [
       {
         "id": "304628",
         "name": "【UX1】7月1日1230-工程支付同时扣除保证金 v1.0.0需求评审",
-        "assignedTo": "A80507",
-        "status": "wait",
-        "priority": 0,
-        "type": "ad1_UI_des",
-        "execution": "FMS-0730",
-        "deadline": "2026-07-08",
-        "overdue_days": 5,
-        "estimate": 1.0,
-        "consumed": 0.0,
-        "left": 1.0
-      },
-      {
-        "id": "304628",
-        "name": "【UX1】7月1日1230-工程支付同时扣除保证金 v1.0.0需求评审",
-        "assignedTo": "A80507",
-        "status": "wait",
-        "priority": 0,
-        "type": "ad1_UI_des",
-        "execution": "FMS-0730",
-        "deadline": "2026-07-08",
-        "overdue_days": 5,
-        "estimate": 1.0,
-        "consumed": 0.0,
-        "left": 1.0
-      },
-      {
-        "id": "304628",
-        "name": "【UX1】7月1日1230-工程支付同时扣除保证金 v1.0.0需求评审",
-        "assignedTo": "A80507",
+        "assignedTo": "李德文",
         "status": "wait",
         "priority": 0,
         "type": "ad1_UI_des",
@@ -103,34 +47,6 @@
         "estimate": 20.0,
         "consumed": 0.0,
         "left": 20.0
-      },
-      {
-        "id": "304444",
-        "name": "交通银行已签收票据数据拉取定时任务",
-        "assignedTo": "A80715",
-        "status": "wait",
-        "priority": 0,
-        "type": "a_dev4_control",
-        "execution": "FMS-0730",
-        "deadline": "2026-07-08",
-        "overdue_days": 5,
-        "estimate": 20.0,
-        "consumed": 0.0,
-        "left": 20.0
-      },
-      {
-        "id": "304444",
-        "name": "交通银行已签收票据数据拉取定时任务",
-        "assignedTo": "A80715",
-        "status": "wait",
-        "priority": 0,
-        "type": "a_dev4_control",
-        "execution": "FMS-0730",
-        "deadline": "2026-07-08",
-        "overdue_days": 5,
-        "estimate": 20.0,
-        "consumed": 0.0,
-        "left": 20.0
       }
     ]
   },
@@ -138,7 +54,7 @@
     {
       "id": "304629",
       "name": "【前端】7月1日1230-工程支付同时扣除保证金 v1.0.0需求评审",
-      "assignedTo": "A80773",
+      "assignedTo": "刘钊志",
       "status": "wait",
       "priority": 0,
       "type": "a_dev2_front",
@@ -152,91 +68,7 @@
     {
       "id": "304628",
       "name": "【UX1】7月1日1230-工程支付同时扣除保证金 v1.0.0需求评审",
-      "assignedTo": "A80507",
-      "status": "wait",
-      "priority": 0,
-      "type": "ad1_UI_des",
-      "execution": "FMS-0730",
-      "deadline": "2026-07-08",
-      "overdue_days": 5,
-      "estimate": 1.0,
-      "consumed": 0.0,
-      "left": 1.0
-    },
-    {
-      "id": "304444",
-      "name": "交通银行已签收票据数据拉取定时任务",
-      "assignedTo": "A80715",
-      "status": "wait",
-      "priority": 0,
-      "type": "a_dev4_control",
-      "execution": "FMS-0730",
-      "deadline": "2026-07-08",
-      "overdue_days": 5,
-      "estimate": 20.0,
-      "consumed": 0.0,
-      "left": 20.0
-    },
-    {
-      "id": "304629",
-      "name": "【前端】7月1日1230-工程支付同时扣除保证金 v1.0.0需求评审",
-      "assignedTo": "A80773",
-      "status": "wait",
-      "priority": 0,
-      "type": "a_dev2_front",
-      "execution": "FMS-0730",
-      "deadline": "2026-07-08",
-      "overdue_days": 5,
-      "estimate": 1.0,
-      "consumed": 0.0,
-      "left": 1.0
-    },
-    {
-      "id": "304628",
-      "name": "【UX1】7月1日1230-工程支付同时扣除保证金 v1.0.0需求评审",
-      "assignedTo": "A80507",
-      "status": "wait",
-      "priority": 0,
-      "type": "ad1_UI_des",
-      "execution": "FMS-0730",
-      "deadline": "2026-07-08",
-      "overdue_days": 5,
-      "estimate": 1.0,
-      "consumed": 0.0,
-      "left": 1.0
-    },
-    {
-      "id": "304444",
-      "name": "交通银行已签收票据数据拉取定时任务",
-      "assignedTo": "A80715",
-      "status": "wait",
-      "priority": 0,
-      "type": "a_dev4_control",
-      "execution": "FMS-0730",
-      "deadline": "2026-07-08",
-      "overdue_days": 5,
-      "estimate": 20.0,
-      "consumed": 0.0,
-      "left": 20.0
-    },
-    {
-      "id": "304629",
-      "name": "【前端】7月1日1230-工程支付同时扣除保证金 v1.0.0需求评审",
-      "assignedTo": "A80773",
-      "status": "wait",
-      "priority": 0,
-      "type": "a_dev2_front",
-      "execution": "FMS-0730",
-      "deadline": "2026-07-08",
-      "overdue_days": 5,
-      "estimate": 1.0,
-      "consumed": 0.0,
-      "left": 1.0
-    },
-    {
-      "id": "304628",
-      "name": "【UX1】7月1日1230-工程支付同时扣除保证金 v1.0.0需求评审",
-      "assignedTo": "A80507",
+      "assignedTo": "李德文",
       "status": "wait",
       "priority": 0,
       "type": "ad1_UI_des",
